@@ -1,7 +1,5 @@
 {
-  "name": "Copy of SMART RPH V101 dz",
-  "description": "Aplikasi pengurusan Rekod Pengajaran Harian (eRPH) pintar dengan integrasi Groq AI untuk penjanaan kandungan PdP yang pantas dan bijak.",
-  "requestFramePermissions": [
-    "camera"
-  ]
+  "name": "Remix sisten latest Mac",
+  "description": "Pusat sehenti untuk guru SSEMJ menguruskan pautan web, panitia, dan maklumat penting.",
+  "requestFramePermissions": []
 }
